@@ -1,6 +1,6 @@
 # FastFood-LandingPage
 
-Welcome to the **FastFood-Landing-Page** repository! This project showcases a dynamic and engaging landing page for a fictional fast food restaurant. Crafted with HTML, CSS, and JavaScript, this repository demonstrates the fusion of front-end technologies to create an attractive and interactive web presence for the restaurant.
+Welcome to the **FastFood-LandingPage** repository! This project showcases a dynamic and engaging landing page for a fictional fast food restaurant. Crafted with HTML, CSS, and JavaScript, this repository demonstrates the fusion of front-end technologies to create an attractive and interactive web presence for the restaurant.
 
 ## Features
 
@@ -18,8 +18,8 @@ Welcome to the **FastFood-Landing-Page** repository! This project showcases a dy
 
 Follow these instructions to get the project up and running on your local machine:
 
-1. Clone this repository: `git clone https://github.com/saifiimuhammad/FastFood-Landing-Page.git`
-2. Navigate to the project directory: `cd FastFood-Landing-Page`
+1. Clone this repository: `git clone https://github.com/saifiimuhammad/FastFood-LandingPage.git`
+2. Navigate to the project directory: `cd FastFood-LandingPage`
 3. Open `index.html` in your preferred web browser.
 
 ## Dependencies
