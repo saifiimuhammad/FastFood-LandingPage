@@ -1,4 +1,5 @@
 # FastFood-LandingPage
+![screencapture-127-0-0-1-5500-index-html-2023-10-03-12_10_21](https://github.com/saifiimuhammad/FastFood-LandingPage/assets/99310347/7303b1e0-c097-4f26-a9f9-c1c2e9e7160b)
 
 Welcome to the **FastFood-LandingPage** repository! This project showcases a dynamic and engaging landing page for a fictional fast food restaurant. Crafted with HTML, CSS, and JavaScript, this repository demonstrates the fusion of front-end technologies to create an attractive and interactive web presence for the restaurant.
 
